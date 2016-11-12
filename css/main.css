@@ -75,5 +75,6 @@ body{background-color: #F5F5F5;}
 .footer h3{font-size: 18px; font-family: "微软雅黑";}
 .footer a{font-size: 14px; font-family: "微软雅黑"; color: #999;}
 .footer a:hover{color: #C00;}
-.footer ul span{font-size: 18px; font-family: "微软雅黑";}
-.footer .noBg{background: none;}
+.footer ul span{font-size: 18px; font-family: "微软雅黑"; padding-left: 30px;}
+.footer .noBg{background: none; position: relative;}
+.footer .img_weixin{position: absolute; left: 45px; top: center;}
